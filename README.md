@@ -3,7 +3,7 @@ I'm Backend Developer
 
 ## 📫 How to reach me:
 * Telegram: https://t.me/jumaboyev_jasurbek
-* LinkedIn: https://www.linkedin.com/in/jasurbekjumaboyev/
+* LinkedIn: https://www.linkedin.com/in/jasurbek-jumaboyev-68858b241/
 * Mail: jumaboyevjasurbek@2004@gmail.com
 <!--
 **jumaboyev_jasurbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

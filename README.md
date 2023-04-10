@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Jumaboyev Jasurbek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="jasurbek" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="jasurbek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jjasurbeek" target="blank"><img src="https://img.shields.io/twitter/follow/jasurbek?logo=twitter&style=for-the-badge" alt="jasurbek"/></a> </p>
 
 - 🔭 I’m currently working on **Backend Developer**
 

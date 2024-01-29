@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jjasurbeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjasurbeek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jasurbek-jumaboyev-68858b241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasurbek-jumaboyev-68858b241" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jasurbek-jumaboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasurbek-jumaboyev" height="30" width="40" /></a>
 <a href="https://instagram.com/jumaboyev__jasurbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumaboyev__jasurbek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCV3MgJ-AaiAjweuqq7wIC2A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCV3MgJ-AaiAjweuqq7wIC2A" height="30" width="40" /></a>
 </p>

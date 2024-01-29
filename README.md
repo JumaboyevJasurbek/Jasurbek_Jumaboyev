@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Backend Developer**
 
-- 🌱 I’m currently improving my knowledge
+- 🌱 I’m always improving my knowledge
 
 - 💬 Ask me about **Backend , PERN**
 
